@@ -8,5 +8,5 @@ This game is created for Digital Wizard code club of IIT Tirupati .
 VR headset is provided by IIT Tirupati .
 
 Here you can see a video 
-![d5684568-6197-4082-b5ad-f21a1c7dde5f](https://github.com/Anish2915/VR_TrainCart_Game/assets/137883198/a7c7be47-454a-4f2b-b05a-0a82895c6a5f)
+![Video](https://github.com/Anish2915/VR_TrainCart_Game/assets/137883198/a7c7be47-454a-4f2b-b05a-0a82895c6a5f)
 
